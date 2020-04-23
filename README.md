@@ -1,7 +1,29 @@
-
 # Oculus-Quest-Presence
 
-#### Discord Rich Presence for the Oculus Quest
+
+<p align="center">
+	Discord Rich Presence for the Oculus Quest by <a href="https://github.com/madmagic007" target="_blank">madmagic007</a>
+</p>
+
+<p align="center">
+	RyanTheTide - Socials
+</p>
+
+<p align="center">
+   <a href="https://discordapp.com/users/623410683689566208/">
+   <img src="https://img.shields.io/badge/Discord-%232C2F33.svg?logo=discord" alt="Discord">
+   </a>
+   <a href="https://twitter.com/RyanTheTide">
+   <img src="https://img.shields.io/badge/Twitter-%23657786.svg?logo=twitter" alt="Twitter">
+   </a>
+   <a href="https://www.reddit.com/user/ryanthetide/">
+   <img src="https://img.shields.io/badge/Reddit-%23cee3f8.svg?logo=reddit" alt="Reddit">
+   </a>
+</p>
+
+<p align="center">
+	MadMagic - Socials
+</p>
 
 <p align="center">
    <a href="https://discordapp.com/users/401795293797941290/">
@@ -24,7 +46,7 @@ Video tutorial:
 <br/><br/>
 
 ### Files
-- Download the <a href="https://github.com/madmagic007/Oculus-Quest-Presence/releases" target="_blank">latest release</a> and unzip it.
+- Download the <a href="https://github.com/RyanTheTide/Oculus-Quest-Discord-Presence/releases" target="_blank">latest release</a> and unzip it.
 - Download and install <a href="https://sidequestvr.com/#/download" target="_blank">SideQuest</a> on your PC.
 - Download <a href="https://github.com/tverona1/QuestAppLauncher/releases" target="_blank">Quest app launcher</a>.
 
@@ -32,7 +54,7 @@ Video tutorial:
 - Use SideQuest to sideload the `Quest App Launcher apk` and the `Quest Discord RPC apk` (from the zip)
 - Run `oqrpc.exe` to install the client on your PC (from the zip)
 - After the installer is finished, run the `Oculus Quest Discord RPC.jar`
-- In SideQuest, check the top left corner to see the IP address of your Quest. It should look something like this: `192.168.x.x`
+- In SideQuest, check the top left corner to see the IP address of your Quest. It should look something like this: (`192.168.x.x` or `10.1.x.x`
 - Enter this IP address into the popup window.
 
 ### On Your Quest
@@ -81,9 +103,8 @@ You can now go back to your PC and press the `validate` button in the popup wind
 
 #### - Do i need to set the ip every single time?
 - No, the window asking for the ip only comes up if no ip has been set before, or that it doesn't find one in the config file. 
-#### - Will this work for mac/linux?
-- For mac, download jar from <a href="https://github.com/madmagic007/Oculus-Quest-Presence/raw/master/pc/out/artifacts/pc_jar/Oculus%20Quest%20Discord%20RPC.jar">here</a> and place this is a folder where no admin privlegses are required to edit files. I dont have an installer yet because I dont know how to work with mac. 
-- Linux has no support yet, you can try downloading the jar but that most likely won't work properly on linux.
+#### - Will this work on my mac?
+- As of now, no. I have plans on making one in the future, but because i know nothing about mac and i don't have one, this might still be some time before it gets released. If you have a mac and would like to help me, make sure to contact me!
 #### - Does my pc needs to be on all the time?
 - If you want to show the presence then yes, if you dont want to have it show then your pc can be turned off.
 #### - Will this affect performance/battery life on my quest?
@@ -93,8 +114,8 @@ You can now go back to your PC and press the `validate` button in the popup wind
 
 ## Contributing
 
-If you have experience with java/android or you'd like to help adding to the `lang.json` file, contact me using the social badges at the top of the repo. 
+If you have experience with java/android or you'd like to help adding to the `lang.json` file, contact me or madmagic using the social badges at the top of the repo. 
 
 ---
 
-Special thanks to [u/FinalFortune_](https://www.reddit.com/user/FinalFortune_/) for helping me out with bug testing and creating a demo/tutorial video.
+Special thanks to [@madmagic007](https://github.com/madmagic007) for creating this awesome applciation and [u/FinalFortune](https://www.reddit.com/user/FinalFortune) a demo/tutorial video.
