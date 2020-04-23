@@ -54,7 +54,7 @@ Video tutorial:
 - Use SideQuest to sideload the `Quest App Launcher apk` and the `Quest Discord RPC apk` (from the zip)
 - Run `oqrpc.exe` to install the client on your PC (from the zip)
 - After the installer is finished, run the `Oculus Quest Discord RPC.jar`
-- In SideQuest, check the top left corner to see the IP address of your Quest. It should look something like this: (`192.168.x.x` or `10.1.x.x`
+- In SideQuest, check the top left corner to see the IP address of your Quest. It should look something like this: (`192.168.x.x)` or (`10.1.x.x`)
 - Enter this IP address into the popup window.
 
 ### On Your Quest
